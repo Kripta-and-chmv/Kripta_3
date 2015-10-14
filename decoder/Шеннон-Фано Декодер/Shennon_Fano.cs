@@ -105,15 +105,29 @@ namespace Шеннон_Фано_Декодер
         public String Decoding(String coding_messege)//Декодирование
         {
             String temp = string.Empty;
-            int count = 0, j = 0, wordNumber = coding_messege.Length/4 ;
+            int count = 0, j = 0, wordNumber = coding_messege.Length/4, ones=0 ;
             String result = string.Empty;
             bool flag = false;
             for (int i = 0; i <wordNumber; i++)
             {
                 for (j = 0; j < 4; j++)
                 {
-                    temp += coding_messege[count++];
+                    temp += coding_messege[count];
+                    if (coding_messege[count] == '1')
+                        ones++;
+
+                    count++;
+                    
                 }
+                // если кол-во единиц нечётно, то вместо числа ставится символ "*" и осуществляется переход к следующему числу
+                if (ones%2!=0)
+                {
+                    result += "* ";
+                    ones = 0;
+                    continue;
+                }
+                //если слово корректно, то отсекаем последний символ и декодируем его
+                temp = temp.Substring(0, 3);
                 for (j = 0; j < Code.Count; j++)
                 {
                     if (temp == Code[j])
@@ -126,6 +140,7 @@ namespace Шеннон_Фано_Декодер
                 if (!flag)
                     result+="* ";
                 temp = string.Empty;
+                ones = 0;
             }
             return result;
         }

@@ -118,20 +118,18 @@ namespace Шеннона_Фано
                 }//добавление тестового бита
                 if (count % 2 == 0)
                 {
-                    //Code[j] += "0";
+                 
                     testBit.Add("0");
                 }
                 else
                 {
-                   // Code[j] += "1";
+                   
                     testBit.Add("1");
                 }
                 count = 0;
             }
             
-            ///////////////////////////////////
            
-            //////////////////////////////////
 
             List<String> Code_messege = new List<String>();
             for (int i = 0; i < messege.Count; i++)
