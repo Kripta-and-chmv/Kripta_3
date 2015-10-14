@@ -16,3 +16,12 @@ D:\УЧЕБА\УЧЕБА 3 КУРС\КРИПТОГРАФИЯ\Шеннон-Фан
 D:\УЧЕБА\УЧЕБА 3 КУРС\КРИПТОГРАФИЯ\Шеннон-Фано Декодер\Шеннон-Фано Декодер\obj\Debug\Шеннон-Фано Декодер.csproj.GenerateResource.Cache
 D:\УЧЕБА\УЧЕБА 3 КУРС\КРИПТОГРАФИЯ\Шеннон-Фано Декодер\Шеннон-Фано Декодер\bin\Debug\Шеннон-Фано Декодер.exe
 D:\УЧЕБА\УЧЕБА 3 КУРС\КРИПТОГРАФИЯ\Шеннон-Фано Декодер\Шеннон-Фано Декодер\bin\Debug\Шеннон-Фано Декодер.pdb
+C:\Users\gener\Documents\GitHub\Kripta_3\decoder\Шеннон-Фано Декодер\bin\Debug\Шеннон-Фано Декодер.exe.config
+C:\Users\gener\Documents\GitHub\Kripta_3\decoder\Шеннон-Фано Декодер\obj\Debug\Шеннон-Фано Декодер.exe
+C:\Users\gener\Documents\GitHub\Kripta_3\decoder\Шеннон-Фано Декодер\obj\Debug\Шеннон-Фано Декодер.pdb
+C:\Users\gener\Documents\GitHub\Kripta_3\decoder\Шеннон-Фано Декодер\bin\Debug\Шеннон-Фано Декодер.exe
+C:\Users\gener\Documents\GitHub\Kripta_3\decoder\Шеннон-Фано Декодер\bin\Debug\Шеннон-Фано Декодер.pdb
+C:\Users\gener\Documents\GitHub\Kripta_3\decoder\Шеннон-Фано Декодер\obj\Debug\Шеннон-Фано Декодер.csprojResolveAssemblyReference.cache
+C:\Users\gener\Documents\GitHub\Kripta_3\decoder\Шеннон-Фано Декодер\obj\Debug\Шеннон_Фано_Декодер.Form1.resources
+C:\Users\gener\Documents\GitHub\Kripta_3\decoder\Шеннон-Фано Декодер\obj\Debug\Шеннон_Фано_Декодер.Properties.Resources.resources
+C:\Users\gener\Documents\GitHub\Kripta_3\decoder\Шеннон-Фано Декодер\obj\Debug\Шеннон-Фано Декодер.csproj.GenerateResource.Cache
