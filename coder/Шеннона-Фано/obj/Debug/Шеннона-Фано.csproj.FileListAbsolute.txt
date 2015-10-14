@@ -19,3 +19,12 @@ D:\УЧЕБА\УЧЕБА 3 КУРС\КРИПТОГРАФИЯ\Шеннона-Фа
 C:\Users\gener\Documents\GitHub\Kripta_3\Шеннона-Фано\bin\Debug\Шеннона-Фано.exe.config
 C:\Users\gener\Documents\GitHub\Kripta_3\Шеннона-Фано\obj\Debug\Шеннона-Фано.exe
 C:\Users\gener\Documents\GitHub\Kripta_3\Шеннона-Фано\obj\Debug\Шеннона-Фано.pdb
+C:\Users\gener\Documents\GitHub\Kripta_3\coder\Шеннона-Фано\bin\Debug\Шеннона-Фано.exe.config
+C:\Users\gener\Documents\GitHub\Kripta_3\coder\Шеннона-Фано\obj\Debug\Шеннона-Фано.exe
+C:\Users\gener\Documents\GitHub\Kripta_3\coder\Шеннона-Фано\obj\Debug\Шеннона-Фано.pdb
+C:\Users\gener\Documents\GitHub\Kripta_3\coder\Шеннона-Фано\bin\Debug\Шеннона-Фано.exe
+C:\Users\gener\Documents\GitHub\Kripta_3\coder\Шеннона-Фано\bin\Debug\Шеннона-Фано.pdb
+C:\Users\gener\Documents\GitHub\Kripta_3\coder\Шеннона-Фано\obj\Debug\Шеннона-Фано.csprojResolveAssemblyReference.cache
+C:\Users\gener\Documents\GitHub\Kripta_3\coder\Шеннона-Фано\obj\Debug\Шеннона_Фано.Form1.resources
+C:\Users\gener\Documents\GitHub\Kripta_3\coder\Шеннона-Фано\obj\Debug\Шеннона_Фано.Properties.Resources.resources
+C:\Users\gener\Documents\GitHub\Kripta_3\coder\Шеннона-Фано\obj\Debug\Шеннона-Фано.csproj.GenerateResource.Cache

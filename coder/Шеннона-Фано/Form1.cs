@@ -17,6 +17,7 @@ namespace Шеннона_Фано
 
 
         public List<String> messeges = new List<String>();
+        public List<String> testBite = new List<String>();
 
         public List<float> probability = new List<float> { 0.125f, 0.125f, 0.125f, 0.125f, 0.125f, 0.125f, 0.125f, 0.125f };
         public List<String> Alph = new List<String> { "_", "14", "5", "1", "0", "2", "8", "4" };
@@ -105,7 +106,7 @@ namespace Шеннона_Фано
             foreach (String i in new_alph)
                 Alphabite.Text += i + '\n';
             Shennon_Fano S = new Shennon_Fano(Alph, probability);
-            List<String> Code = S.getCode(), alph = S.get_Alph(), Coding_mess = S.Coding(messeges);
+            List<String> Code = S.getCode(), alph = S.get_Alph(), Coding_mess = S.Coding(messeges, testBite);
 
           
             /////////////////////////////////////////
@@ -113,7 +114,7 @@ namespace Шеннона_Фано
             ///////////////////////////  
             dataGridView1.Rows.Clear();
             for (int i = 0; i < Code.Count; i++)
-                dataGridView1.Rows.Add(alph[i], Code[i]);
+                dataGridView1.Rows.Add(alph[i], Code[i], testBite[i]);
             Code_messege.Text = String.Empty;
             foreach (String i in Coding_mess)
                 Code_messege.Text += i;
@@ -150,6 +151,14 @@ namespace Шеннона_Фано
             }
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
 
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

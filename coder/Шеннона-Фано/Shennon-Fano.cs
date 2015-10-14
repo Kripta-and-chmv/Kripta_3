@@ -104,7 +104,7 @@ namespace Шеннона_Фано
             }
             else return;
         }
-        public List<String> Coding(List<String> messege) //кодирование сообщения
+        public List<String> Coding(List<String> messege, List<String> testBit) //кодирование сообщения
         {
             int count = 0;
        
@@ -115,13 +115,24 @@ namespace Шеннона_Фано
                     if (Code[j][k] == '1')
                         count++;
 
-                }
+                }//добавление тестового бита
                 if (count % 2 == 0)
-                    Code[j] += "0";
+                {
+                    //Code[j] += "0";
+                    testBit.Add("0");
+                }
                 else
-                    Code[j] += "1";
+                {
+                   // Code[j] += "1";
+                    testBit.Add("1");
+                }
                 count = 0;
             }
+            
+            ///////////////////////////////////
+           
+            //////////////////////////////////
+
             List<String> Code_messege = new List<String>();
             for (int i = 0; i < messege.Count; i++)
                 for (int j = 0; j < Code.Count; j++)
@@ -129,6 +140,7 @@ namespace Шеннона_Фано
                     {
                      
                         Code_messege.Add(Code[j]);
+                        Code_messege.Add(testBit[j]);
                     
                     }
 
