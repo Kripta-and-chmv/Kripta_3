@@ -16,3 +16,6 @@ D:\УЧЕБА\УЧЕБА 3 КУРС\КРИПТОГРАФИЯ\Шеннона-Фа
 D:\УЧЕБА\УЧЕБА 3 КУРС\КРИПТОГРАФИЯ\Шеннона-Фано\Шеннона-Фано\obj\Debug\Шеннона_Фано.Form1.resources
 D:\УЧЕБА\УЧЕБА 3 КУРС\КРИПТОГРАФИЯ\Шеннона-Фано\Шеннона-Фано\obj\Debug\Шеннона_Фано.Properties.Resources.resources
 D:\УЧЕБА\УЧЕБА 3 КУРС\КРИПТОГРАФИЯ\Шеннона-Фано\Шеннона-Фано\obj\Debug\Шеннона-Фано.csproj.GenerateResource.Cache
+C:\Users\gener\Documents\GitHub\Kripta_3\Шеннона-Фано\bin\Debug\Шеннона-Фано.exe.config
+C:\Users\gener\Documents\GitHub\Kripta_3\Шеннона-Фано\obj\Debug\Шеннона-Фано.exe
+C:\Users\gener\Documents\GitHub\Kripta_3\Шеннона-Фано\obj\Debug\Шеннона-Фано.pdb
